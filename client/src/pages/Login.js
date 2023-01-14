@@ -9,16 +9,16 @@ const Login = () => {
             <div className="wrapper">
                 <div className="left">
                     <div className="loginButton google">
-                        {/* <img src={Google} alt="" className="icon"/> */}
-                        Google
+                        <img src={Google} alt="" className="icon"/>
+                        Sign in with Google
                     </div>
-                    <div className="loginButton meta">
-                        {/* <img src={Facebook} alt="" className="icon"/> */}
-                        Meta
+                    <div className="loginButton facebook">
+                        <img src={Facebook} alt="" className="icon"/>
+                        Sign in with Meta
                     </div>
                     <div className="loginButton github">
-                        {/* <img src={Github} alt="" className="icon"/> */}
-                        Github
+                        <img src={Github} alt="" className="icon"/>
+                        Sign in with Github
                     </div>
                 </div>
 

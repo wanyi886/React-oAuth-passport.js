@@ -4,10 +4,10 @@ https://www.youtube.com/watch?v=7K9kDrtc4S8
 React Social Login with Passport.js | React oAuth w/ Google, Facebook, Github
 
 Progress:
-vide time mark 28:38
-Working on login page.
+video time mark 28:18
+Finished the app design.
 
-
+Added in personal github repo
 
 # Getting Started with Create React App
 
